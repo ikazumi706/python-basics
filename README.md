@@ -1,2 +1,10 @@
 # python-basics
-Python practice
+
+Python practiceの練習コードをまとめています。
+
+## 内容
+- list / dictionary
+- file read write
+- matplotlib
+- numpy
+- pandas
